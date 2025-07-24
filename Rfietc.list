@@ -8,10 +8,11 @@ DOMAIN-SUFFIX,reddituploads.com
 DOMAIN,reddituploads.com.cdn-cf.behance.net
 DOMAIN,reddituploads.com.cdn-cf.dropbox.com
 DOMAIN-KEYWORD,reddit
+USER-AGENT,Reddit*
 #⭐RFI法广⭐#
 DOMAIN-SUFFIX,rfi.fr
 DOMAIN-SUFFIX,joinhoney.com
-DOMAIN-KEYWORD,rfi
+USER-AGENT,RFI*
 #⭐轮系⭐#
 DOMAIN-SUFFIX,ntdtv.com
 DOMAIN-SUFFIX,epochtimes.com
